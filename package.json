@@ -1,0 +1,25 @@
+{
+  "name": "ipmonitor",
+  "version": "1.0.0",
+  "description": "Monitor public IP address of host and send notification as soon as it changes by email",
+  "main": "ipmonitor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oomemory/ipmonitor.git"
+  },
+  "keywords": [
+    "monitor",
+    "public",
+    "ip",
+    "address"
+  ],
+  "author": "oomemory",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/oomemory/ipmonitor/issues"
+  },
+  "homepage": "https://github.com/oomemory/ipmonitor#readme"
+}
